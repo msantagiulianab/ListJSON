@@ -1,4 +1,4 @@
-# flutter_list
+# List JSON
 
 A Flutter app that parse data and displays it in a list.
 
