@@ -1,6 +1,6 @@
 # List JSON
 
-List JSON is an `Android app` that `uses an http request to gather data from a JSON file on the internet and then displays it in a List`.
+List JSON is an `Android/iOS app` that `uses an http request to gather data from a JSON file on the internet and then displays it in a List`.
 
 <p float="left">
 <img src="https://user-images.githubusercontent.com/21276996/90138816-727b1a00-dd6f-11ea-9780-65eddf3bca58.jpg" width="300" />
