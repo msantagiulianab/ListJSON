@@ -2,6 +2,11 @@
 
 A Flutter app that parse data and displays it in a list.
 
+<p float="left">
+<img src="https://user-images.githubusercontent.com/21276996/90138816-727b1a00-dd6f-11ea-9780-65eddf3bca58.jpg" width="300" />
+<img src="https://user-images.githubusercontent.com/21276996/90138919-8f175200-dd6f-11ea-9573-0b3b32ca240a.jpg" width="300" />
+</p>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
